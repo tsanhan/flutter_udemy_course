@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/1_QuizApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/1_QuizApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1_QuizApp/assignment_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/1_QuizApp/assignment_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1_QuizApp/assignment_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/1_QuizApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/2_PersonalExpensesApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2_PersonalExpensesApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2_PersonalExpensesApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/2_PersonalExpensesApp/flexible_and_expanded/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2_PersonalExpensesApp/flexible_and_expanded/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2_PersonalExpensesApp/flexible_and_expanded/build" />
+      <excludeFolder url="file://$MODULE_DIR$/3_Meals_App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/3_Meals_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/3_Meals_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/4_ShopApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/4_ShopApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/4_ShopApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/5_GreatPlacesApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/5_GreatPlacesApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/5_GreatPlacesApp/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

@@ -10,8 +10,11 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="great_places_app"
         android:icon="@mipmap/ic_launcher">
+
+               <!-- // need to enable biiling for the project for the key to work -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAG8PhWkYgQa9jve_HUHLvb9ds11oYrw14"/>
+               android:value="AIzaSyAG8PhWkYgQa9jve_HUHLvb9ds11oYrw14"/> 
+        
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

@@ -10,7 +10,7 @@ class AuthProvider with ChangeNotifier {
   String _token;
   DateTime _expiryDate;
   String _userId;
-  static const _webAPIKey = "AIzaSyAG8PhWkYgQa9jve_HUHLvb9ds11oYrw14";
+  static const _webAPIKey = "AIzaSyAG8PhWkYgQa9jve_HUHLvb9ds11oYrw14"; // need to enable biiling for the project for the key to work
   Timer _authTimer;
 
   bool get isAuth {
